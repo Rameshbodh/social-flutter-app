@@ -4,6 +4,9 @@ void main() {
   runApp(const MyApp());
 }
 
+
+//My first flutter app for social app
+
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
